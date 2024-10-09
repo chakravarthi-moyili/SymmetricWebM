@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(40, 95, 150);
+    text-align: center;
+}
+img{
+    width: 100px;
+    border: white 2px solid;
+    border-radius: 100px;
+    padding: 5px;
+}
+#mdiv{
+    width: 100vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+#mdiv img{
+    margin-bottom: 10px;
+}
+#indiv{
+    background-color: white;
+    color: rgb(37, 117, 198);
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+}
